@@ -6,9 +6,75 @@ color:
   saturation: 0.4647733687888831
   rhythmicContrast: 0.9192770866211504
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
 name: cocoa moon cafe warrandyte
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af271fe0-5c0e-4a3f-b8df-79f4f06c939e.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/af271fe0-5c0e-4a3f-b8df-79f4f06c939e.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/107b6f0b-d48d-4a61-8d81-fe8e158845c8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/107b6f0b-d48d-4a61-8d81-fe8e158845c8.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Welcome to Warrandyte
+description: Cocoa Moon Cafe
+purpose:
+  - type: contact
+    url: 'tel:0398445081'
+    label: Call 03 98445081
+  - type: contact
+    url: 'mailto:info@cocoamoon.com.au'
+    label: email
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/29d734a9-0169-4d06-8d30-105f35276228.png
+author:
+  name: Andres Vivado
+  email: andres@cocoamoon.com.au
+opengraph:
+  appId: '1263427873749443'
